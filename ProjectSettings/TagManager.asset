@@ -3,7 +3,16 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Models
+  - Check1
+  - Check2
+  - Check3
+  - River
+  - Turn
+  - Bullet
+  - Button
+  - Cards
   layers:
   - Default
   - TransparentFX
